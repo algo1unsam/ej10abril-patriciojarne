@@ -8,7 +8,7 @@
 
 Para obtener caramelos, los chicos del barrio intentarán asustar al insensible Sr. Mirca, como se describe a continuación.
  
-La capacidad de asustar de cada pibe depende de cómo es y lo que lleva puesto.
+La capacidad de asustar de cada pibe depende de cómo es y lo que lleva puesto..
 - Macaria tiene un nivel de ira que inicialmente es de 10, pero que se incrementa cuando la hacen enojar. Su capacidad de susto surge de sumar su nivel de ira al total de las capacidades de susto de los disfraces que lleva. 
 - Pancracio asusta gritando “buuuu” y no le gusta llevar más de un disfraz. Su capacidad de susto es igual a la cantidad de 'u' de su grito típico más la capacidad de susto de su único disfraz. En un principio, usa la máscara de Drácula, ya que es su favorita. Cuando le piden que deje su disfraz no hace caso y se enoja, agregando 2 'u' a su grito. En cambio, si le dan otro disfraz deja de lado el que tenía antes y se pone el nuevo. 
 
