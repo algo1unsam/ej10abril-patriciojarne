@@ -8,5 +8,5 @@ object mirca {
 	method tolerancia(){
 		return tolerancia
 	}
-
+ 
 }

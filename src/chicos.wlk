@@ -9,7 +9,11 @@ object macaria {
 }
 
 object pancracio {
-
+	var disfraz=mascaraDracula
+	var susto="buuu"
+	method prueba(){
+		return susto.size()
+	}
 }
 
 // El chico inventado .
